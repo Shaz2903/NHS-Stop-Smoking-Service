@@ -1,4 +1,4 @@
-# NHS Stop Smoking Services — Local Authority Performance Analysis
+# NHS Stop Smoking Services :Local Authority Performance Analysis
 
 A West Sussex-focused analysis of NHS England's 2025/26 Stop Smoking Services data: quit rates, regional comparison, spend per quitter, and a breakdown by socio-economic group and support type. Built in Python, with a companion Power BI dashboard.
 
